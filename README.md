@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi! I'm Ashlesha — a passionate software engineer and AI/ML enthusiast. I love building innovative solutions that blend technology with my deep appreciation for art and data.
-### As a research student, I've explored complex problems, led impactful projects, and embraced both responsibility and creativity. I've worked with OpenAI's API to simplify AI model creation, which I've curated into a hands-on workshop that I'll be presenting at the Tapia Conference this upcoming September.
+### Currently, as an AI/Software Intern at Ascentic, I’ve helped design and implement a cutting-edge multi-agent AI system, improving document parsing efficiency by 30–40% and creating intuitive AI-driven prototypes for customer demos.
+### As a research student, I've explored complex problems, led impactful projects, and embraced both responsibility and creativity. I've worked with OpenAI's API to simplify AI model creation, which I've curated into a hands-on workshop that I presented as a workshop at Tapia Conference 2025.
 ### I've also designed algorithms and conducted a full experiment focused on something as specific as the "Ctrl+Z" function — to better understand user behavior and improve Human-Computer Interaction (HCI). This reflects my passion for creating tech that truly connects with people.
                 
